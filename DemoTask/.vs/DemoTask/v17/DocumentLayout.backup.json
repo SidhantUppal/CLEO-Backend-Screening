@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DemoTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\calenderdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\calenderdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\models\\calendarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\models\\calendarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\models\\calendarday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\models\\calendarday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\models\\calendarheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\models\\calendarheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|c:\\users\\admin\\source\\repos\\demotask\\demotask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C465B37C-DE8C-4915-BB19-0019982AA969}|DemoTask\\DemoTask.csproj|solutionrelative:demotask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Program.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Program.cs",
+              "RelativeToolTip": "DemoTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:23:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalendarService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Services\\CalendarService.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Services\\CalendarService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Services\\CalendarService.cs",
+              "RelativeToolTip": "DemoTask\\Services\\CalendarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:37:19.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalenderData.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\CalenderData.json",
+              "RelativeDocumentMoniker": "DemoTask\\CalenderData.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\CalenderData.json",
+              "RelativeToolTip": "DemoTask\\CalenderData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T09:54:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalendarHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Models\\CalendarHeader.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Models\\CalendarHeader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Models\\CalendarHeader.cs",
+              "RelativeToolTip": "DemoTask\\Models\\CalendarHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:34:23.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Models\\CalendarResponse.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Models\\CalendarResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Models\\CalendarResponse.cs",
+              "RelativeToolTip": "DemoTask\\Models\\CalendarResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:33:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalendarDay.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Models\\CalendarDay.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Models\\CalendarDay.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Models\\CalendarDay.cs",
+              "RelativeToolTip": "DemoTask\\Models\\CalendarDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:31:59.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:31:10.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoTask\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\appsettings.Development.json",
+              "RelativeToolTip": "DemoTask\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T09:26:51.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoTask\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DemoTask\\DemoTask\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoTask\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:25:15.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

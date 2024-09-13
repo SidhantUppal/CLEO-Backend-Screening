@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\DemoTask.exe
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\DemoTask.dll
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\DemoTask.deps.json
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\DemoTask.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\DemoTask.pdb
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\DemoTask\DemoTask\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

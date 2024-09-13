@@ -1,0 +1,276 @@
+{
+  "Header": {
+    "CurrentYear": 2024,
+    "CurrentMonth": 9,
+    "AvailableYears": [ 2023, 2024, 2025 ],
+    "AvailableMonths": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
+  },
+  "Days": [
+    {
+      "Day": 28,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-08-28"
+    }, // Aug
+    {
+      "Day": 29,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-08-29"
+    }, // Aug
+    {
+      "Day": 30,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-08-30"
+    }, // Aug
+    {
+      "Day": 31,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-08-31"
+    }, // Aug
+    {
+      "Day": 1,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-01"
+    }, // Sep
+    {
+      "Day": 2,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 3,
+      "Date": "2024-09-02"
+    }, // Sep
+    {
+      "Day": 3,
+      "IsSelectable": true,
+      "IsSelected": true,
+      "PositionsCount": 0,
+      "Date": "2024-09-03"
+    }, // Sep (selected)
+    {
+      "Day": 4,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 1,
+      "Date": "2024-09-04"
+    }, // Sep
+    {
+      "Day": 5,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 2,
+      "Date": "2024-09-05"
+    }, // Sep
+    {
+      "Day": 6,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-06"
+    }, // Sep
+    {
+      "Day": 7,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 4,
+      "Date": "2024-09-07"
+    }, // Sep
+    {
+      "Day": 8,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-08"
+    }, // Sep
+    {
+      "Day": 9,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-09"
+    }, // Sep
+    {
+      "Day": 10,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 3,
+      "Date": "2024-09-10"
+    }, // Sep
+    {
+      "Day": 11,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-11"
+    }, // Sep
+    {
+      "Day": 12,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 1,
+      "Date": "2024-09-12"
+    }, // Sep
+    {
+      "Day": 13,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-13"
+    }, // Sep
+    {
+      "Day": 14,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 2,
+      "Date": "2024-09-14"
+    }, // Sep
+    {
+      "Day": 15,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-15"
+    }, // Sep
+    {
+      "Day": 16,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-16"
+    }, // Sep
+    {
+      "Day": 17,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 3,
+      "Date": "2024-09-17"
+    }, // Sep
+    {
+      "Day": 18,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-18"
+    }, // Sep
+    {
+      "Day": 19,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 1,
+      "Date": "2024-09-19"
+    }, // Sep
+    {
+      "Day": 20,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-20"
+    }, // Sep
+    {
+      "Day": 21,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 2,
+      "Date": "2024-09-21"
+    }, // Sep
+    {
+      "Day": 22,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-22"
+    }, // Sep
+    {
+      "Day": 23,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-23"
+    }, // Sep
+    {
+      "Day": 24,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 3,
+      "Date": "2024-09-24"
+    }, // Sep
+    {
+      "Day": 25,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-25"
+    }, // Sep
+    {
+      "Day": 26,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 1,
+      "Date": "2024-09-26"
+    }, // Sep
+    {
+      "Day": 27,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-27"
+    }, // Sep
+    {
+      "Day": 28,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 2,
+      "Date": "2024-09-28"
+    }, // Sep
+    {
+      "Day": 29,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-29"
+    }, // Sep
+    {
+      "Day": 30,
+      "IsSelectable": true,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-09-30"
+    }, // Sep
+    {
+      "Day": 1,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-10-01"
+    }, // Oct
+    {
+      "Day": 2,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-10-02"
+    }, // Oct
+    {
+      "Day": 3,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-10-03"
+    }, // Oct
+    {
+      "Day": 4,
+      "IsSelectable": false,
+      "IsSelected": false,
+      "PositionsCount": 0,
+      "Date": "2024-10-04"
+    } // Oct
+  ]
+}
